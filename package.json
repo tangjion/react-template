@@ -1,13 +1,13 @@
 {
-  "name": "{{name}}",
+  "name": "react-template",
   "version": "1.0.0",
-  "description": "{{description}}",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=prod webpack",
     "dev": "cross-env NODE_ENV=dev webpack-dev-server"
   },
-  "author": "{{author}}",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.8.7",
@@ -36,6 +36,7 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
+    "minimist": "^1.2.5",
     "react-redux": "^7.2.0",
     "redux": "^4.0.5"
   }
