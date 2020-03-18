@@ -1,8 +1,8 @@
-# hzcinit
-> 惠租车react项目脚手架
+## hzctemplate
+> 项目脚手架react模板
 
 
-# 安装
+## 安装
 
 安装6.0+以上的nodejs，并且通过 node -v 和 npm -v 检查nodejs和npm是否安装成功
 
@@ -11,7 +11,7 @@
 
 
 
-# 如何使用
+## 如何使用
 
 进入项目根目录
 
@@ -20,7 +20,7 @@
 > npm bulid 进行编译发布
 
 
-# 目录介绍
+## 目录介绍
 
 |目录|介绍|
 |:-|:-:|
@@ -31,6 +31,6 @@
 |templates|html模板目录|
 |webpack.config.js|webpack配置文件|
 
-# 更新日志
+## 更新日志
 
-> 2020年3月18日 hzcinit v1.0.0 上线
+> 2020年3月18日 hzctemplate v1.0.0 上线
